@@ -10,7 +10,7 @@
             <div class="sidebar-brand-icon rotate-n-15">
               <i class="fas fa-store"></i>
             </div>
-            <div class="sidebar-brand-text mx-3">NA Store</div>
+            <div class="sidebar-brand-text mx-3">UAS PWL EA 802</div>
           </a>
 
           <!-- Topbar Navbar -->

@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/PWL_TIFUNISNU_EA_R2_Produk-Toko/';
+$config['base_url'] = 'http://localhost/UAS_PWL_EA/';
 
 /*
 |--------------------------------------------------------------------------

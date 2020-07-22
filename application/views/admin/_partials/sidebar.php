@@ -16,18 +16,18 @@
       </div>
 
       <!-- Nav Item - Pages Collapse Menu -->
-      <li class="nav-item <?php echo $this->uri->segment(2) == 'products' ? 'active': '' ?>">
-        <a class="nav-link " href="<?php echo site_url('/admin/products') ?>">
+      <li class="nav-item <?php echo $this->uri->segment(2) == 'corona' ? 'active': '' ?>">
+        <a class="nav-link " href="<?php echo site_url('/admin/corona') ?>">
           <i class="fas fa-shopping-cart"></i>
-          <span>Produk</span>
+          <span>Tabel</span>
         </a>
       </li>
 
       <!-- Nav Item - Utilities Collapse Menu -->
-      <li class="nav-item" <?php echo $this->uri->segment(2) == 'list_read' ? 'active': '' ?>>
-        <a class="nav-link" href="<?php echo site_url('/admin/products/list_read') ?>">
+      <li class="nav-item" <?php echo $this->uri->segment(2) == 'list_grafik' ? 'active': '' ?>>
+        <a class="nav-link" href="<?php echo site_url('/admin/corona/list_grafik') ?>">
           <i class="fas fa-fw fa-wrench"></i>
-          <span>Edit Produk</span>
+          <span>Grafik</span>
         </a>
       </li>
 
